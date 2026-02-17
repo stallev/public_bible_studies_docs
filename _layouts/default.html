@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: "Документация" }}</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <style>
+    body { font-family: system-ui, sans-serif; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 1rem 1.5rem; }
+    pre { background: #f5f5f5; padding: 1rem; overflow-x: auto; }
+    code { font-size: 0.9em; }
+    .mermaid { margin: 1.5rem 0; text-align: center; }
+  </style>
+</head>
+<body>
+  {{ content }}
+  <script src="{{ '/assets/mermaid-init.js' | relative_url }}"></script>
+</body>
+</html>
