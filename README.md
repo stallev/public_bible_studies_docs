@@ -10,7 +10,15 @@
 
 | Документ | Описание |
 |----------|----------|
-| [document_for_customer_ru.md](document_for_customer_ru.md) | Полное описание функционала и ценности приложения для заказчика (на русском): миссия, роли, user journey maps, экраны, wireframes, Daily Digest, принципы использования, ожидаемые результаты |
+| [mvp_scope_ru.md](mvp_scope_ru.md) | **MVP (первый этап):** что входит в минимальный набор возможностей, что отложено; без технических терминов |
+| [functionality_brief_ru.md](functionality_brief_ru.md) | **Функционал приложения (кратко):** полное описание возможностей BSFY простым языком — роли, курсы и уроки, календарь, офлайн-активности, напоминания, принципы, Post-MVP и ИИ |
+| [mvp_estimate.md](mvp_estimate.md) | Оценка трудозатрат и стоимости MVP (адаптирована для нетехнического читателя) |
+
+### Устаревшие документы
+
+| Документ | Примечание |
+|----------|------------|
+| [document_for_customer_ru.md](document_for_customer_ru.md) | Неактуален. Вместо него используйте [mvp_scope_ru.md](mvp_scope_ru.md) и [functionality_brief_ru.md](functionality_brief_ru.md) |
 
 ## Для кого этот репозиторий
 
