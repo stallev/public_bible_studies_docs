@@ -17,7 +17,7 @@
 
 | Документ | Примечание |
 |----------|------------|
-| [document_for_customer_ru.md](document_for_customer_ru.md) | Неактуален. Вместо него используйте [mvp_scope_ru.md](mvp_scope_ru.md) и [functionality_brief_ru.md](functionality_brief_ru.md) |
+| [document_for_customer_ru.md](document_for_customer_ru.md) | Неактуален.
 
 ## Для кого этот репозиторий
 
